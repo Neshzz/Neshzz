@@ -101,14 +101,13 @@ Me nome e Emanuel Andrade, tenho 21 anos e sou natural do Rio de janeiro. Atualm
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Neshzz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Neshzz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&token=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" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neshzz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="150" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neshzz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&token=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" 
   />
-
 </p>
