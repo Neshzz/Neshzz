@@ -99,14 +99,14 @@ Me nome e Emanuel Andrade, tenho 21 anos e sou natural do Rio de janeiro. Atualm
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     src="https://raw.githubusercontent.com/Neshzz/Neshzz/main/stats.svg" 
   />
 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     src="https://raw.githubusercontent.com/Neshzz/Neshzz/main/langs.svg" 
   />
 </p>
