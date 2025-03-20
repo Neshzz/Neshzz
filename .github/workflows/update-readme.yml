@@ -24,4 +24,4 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add stats.svg langs.svg
           git commit -m "Atualizando estatísticas do GitHub"
-          git push
+          git push || { echo 'git push failed'; exit 1; }
