@@ -2,26 +2,30 @@ name: Atualizar GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Atualiza a cada 12 horas
-  workflow_dispatch:  # Permite execução manual
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clonar o repositório
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: Gerar imagens do GitHub Stats
-        run: |
-          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=Neshzz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&token=${{ secrets.GITHUB_STATS_TOKEN }}"
-          curl -o langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Neshzz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&token=${{ secrets.GITHUB_STATS_TOKEN }}"
+    - name: Generate stats
+      run: |
+        # Add your commands to generate stats here
+        echo "Generating stats..."
 
-      - name: Atualizar README
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add stats.svg langs.svg
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "github-actions@github.com"
+        git add stats.svg langs.svg
+        if git diff-index --quiet HEAD; then
+          echo "No changes to commit."
+        else
           git commit -m "Atualizando estatísticas do GitHub"
           git push || { echo 'git push failed'; exit 1; }
+        fi
