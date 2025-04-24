@@ -38,18 +38,14 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 Fique à vontade para explorar alguns dos meus projetos. Você pode encontrar mais no meu [repositório de projetos](https://github.com/Neshzz?tab=repositories).
 
-* **[Nome do Projeto 1](Link para o Repositório):** Uma breve descrição do projeto e as tecnologias utilizadas.
-* **[Nome do Projeto 2](Link para o Repositório):** Uma breve descrição do projeto e as tecnologias utilizadas.
-* **[Nome do Projeto 3](Link para o Repositório):** Uma breve descrição do projeto e as tecnologias utilizadas.
-
 ---
 
 ### 📫 Conecte-se Comigo
 
 Vamos conversar! Você pode me encontrar em:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-linkedin/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuelandradeneshzz/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emanuel.andrade1253@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Neshzz)
 
 ---
