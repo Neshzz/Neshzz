@@ -40,6 +40,8 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 Fique à vontade para explorar alguns dos meus projetos. Você pode encontrar mais no meu [repositório de projetos](https://github.com/Neshzz?tab=repositories).
 
+(bem, pode não ter quase nada, mas não se deixe levar pelas aparências)
+
 ---
 
 ### 📫 Conecte-se Comigo
