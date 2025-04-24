@@ -10,10 +10,10 @@ Sou apaixonado por criar soluções tecnológicas que conectam o frontend e o ba
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neshzz&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas do GitHub" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neshzz&layout=compact&theme=radical&locale=pt-br" alt="Linguagens Mais Usadas" width="400"/>
-</p>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Neshzz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Neshzz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### 🛠️ Habilidades e Tecnologias
