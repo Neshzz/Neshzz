@@ -6,6 +6,8 @@
 
 Sou apaixonado por criar soluções tecnológicas que conectam o frontend e o backend, explorando novas ferramentas e aprimorando minhas habilidades constantemente. Acredito no poder da tecnologia para transformar ideias em realidade e estou sempre em busca de desafios que impulsionem meu crescimento.
 
+“Não importa quão intrincado seja o código: é na simplicidade que mora a verdadeira solução.”
+
 ---
 
 ### 📊 Estatísticas do GitHub
