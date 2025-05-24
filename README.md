@@ -1,6 +1,6 @@
 # Olá, eu sou o Emanuel Andrade 👋
 
-### `Desenvolvedor FullStack`
+### `Desenvolvedor`
 
 👋 Olá! Meu nome é Emanuel Andrade e sou um desenvolvedor FullStack de 22 anos, natural do Rio de Janeiro. Atualmente, estou aprofundando meus conhecimentos no curso de Análise e Desenvolvimento de Sistemas na Estácio.
 
