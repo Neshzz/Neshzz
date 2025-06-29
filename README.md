@@ -19,7 +19,6 @@ Atualmente estudo e aplico as seguintes tecnologias:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 </p>
 
-- **Paradigmas:** Programação Orientada a Objetos (POO)
 - **Ferramentas de Projeto:** UML
 - **Acesso a Dados:** JDBC, JPA, Hibernate
 - **Front Desktop:** JavaFX
@@ -32,16 +31,6 @@ Atualmente estudo e aplico as seguintes tecnologias:
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Neshzz&show_icons=true&theme=radical)](https://github.com/Neshzz)
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Neshzz&layout=compact&theme=radical)](https://github.com/Neshzz)
-
----
-
-### 🚀 Projetos em Destaque
-
-Confira alguns dos meus projetos (em andamento ou concluídos):
-
-🔗 [Repositório de Projetos](https://github.com/Neshzz?tab=repositories)
-
-*(A evolução acontece projeto por projeto — fique à vontade para acompanhar minha jornada!)*
 
 ---
 
